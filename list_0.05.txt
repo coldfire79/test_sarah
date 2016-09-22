@@ -1,0 +1,1 @@
+{"enrich":{"node12":1,"node11":2,"node9":2},"stat":{}}
