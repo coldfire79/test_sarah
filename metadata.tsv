@@ -1,0 +1,10 @@
+id	group
+#methods	no
+#type	null
+#descriptions	group
+Adult_Bcells	Adult_Bcells
+Adult_CD4Tcells	Adult_CD4Tcells
+Adult_CD8Tcells	Adult_CD8Tcells
+Adult_Frontalcortex	Adult_Frontalcortex
+Adult_Retina	Adult_Retina
+Adult_Spinalcord	Adult_Spinalcord
